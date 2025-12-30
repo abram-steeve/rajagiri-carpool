@@ -1,5 +1,5 @@
 # rajagiri-carpool
-A car pooling web app for Rajagiri
+A car pooling web app for Rajagiri.
 IDEA:
 A secure carpool platform for Rajagiri students to offer or join rides. Verified college IDs,
 vehicles, and OTP check-ins ensure safety and trust.
